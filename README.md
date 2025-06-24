@@ -93,5 +93,5 @@ I recently completed an **AI residency at Apziva**, where I worked on **LLM-base
 
 ---
 
-_Thanks for visiting! ⭐ 
+Thanks for visiting! ⭐ 
 
