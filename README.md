@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Koso Ekwunife
 
-🎓 **PhD-trained Senior Data Analyst** | 🤖 **Aspiring Machine Learning & AI Engineer**  
+🎓 **PhD-trained Senior Data Scientist** | 🤖 **Aspiring Machine Learning & AI Engineer**  
 📍 Based in Canada | 🔬 3 First-authored Publications | 🧠 Apziva AI Residency Alumni  
 
 ---
