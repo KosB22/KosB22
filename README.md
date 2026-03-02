@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a PhD-trained data professional with hands-on experience in **Machine Learning and AI Engineering**, backed by a strong foundation in research, statistical analysis, and real-world data modelling. My expertise spans environmental modelling, predictive analytics, and building ML pipelines with scalable tools like **PySpark**, **Scikit-learn**, and **Databricks**.
+I’m a PhD-trained Senior Data Scientist with 7+ years with hands-on experience in **Machine Learning and AI Engineering**, backed by a strong foundation in research, statistical analysis, and real-world data modelling. My expertise spans environmental modelling, predictive analytics, and building ML pipelines with scalable tools like **PySpark**, **Scikit-learn**, and **Databricks**.
 
 I completed an **AI residency at Apziva**, where I worked on **LLM-based text classification and summarization** projects under the mentorship of seasoned AI engineers. I enjoy building practical ML solutions that scale and generalize.
 
