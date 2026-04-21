@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Koso Ekwunife
 
 🎓 **PhD-trained Senior Data Scientist** | 🤖 **AI Consultant**  
-📍 Based in Canada | 🔬 3 First-authored Publications | 🧠 Apziva AI Residency Alumni  
+📍 Based in Canada | 🔬 5 First-authored Publications | 🧠 Apziva AI Residency and DS4A Alumni  
 
 ---
 
